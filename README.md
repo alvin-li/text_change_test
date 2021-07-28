@@ -1,36 +1,47 @@
-# Peel automates your business analytics (Cohort Analysis, LTV, Repurchase Rate, Lifetime Revenue, etc.) and creates hyper-segmented reports so you have the data needed to understand your customers and grow your profit.
+Nowadays, customers are being greatly influenced by what others have done. Buyers tend to buy products that have already been purchased by the others.
 
-* Looking for customer cohort analysis?
-* Want to create your dashboards from pre-made analysis?
-* Want daily email/Slack reports highlighting your stats, trends, and a daily revenue pacing chart?
-* Want to know the AOV/LTV for subscribers and non-subscribers or by marketing channel?
-* Want to know if the customers that you found through Facebook ads are worth more than Google, Affiliates, etc.?
-* Is Retention better with customers who used discount codes?
-* What is the repurchase rate month after month for each cohort and for each subscriber or non-subscriber?
+That’s the reason why the “Also bought” app becomes one of the necessary tools for every Shopify store. By giving smart recommended products as well as frequently bought products list, the shop revenues will be amazingly increased.
 
-Peel automatically answers all those questions + more.
+This app has the super user-friendly interface as well as simplest configuration steps. No developer skills required.
+Additionally, it is also compatible with all Shopify themes.
 
-With a single click - Peel pulls in data from Shopify, Google Ads, and Facebook ads to automate the reporting of over 100+ metrics so you never have to use a spreadsheet again to analyze the stats on your business.
+# How does recommended products work?
 
-# COHORTS
-Peel's powerful cohort analysis allows you to study data across acquisition, activation, retention, and referral metrics. Customer retention, average lifetime value, total lifetime value, and repurchase rate cohort data give insight into your customer's continual engagement with your brand so you can make decisions to rectify problem areas or opportunities and improve customer loyalty.
+At first, the system takes out the list of products based on the relevant conditions which have been defined by the website administrator inside the related products app.
+Shoppers can see the recommended products list in three different positions:
 
-# SEGMENTATION
-All historical data + hundreds of segment data - locations, ad campaign, discount codes, tags, products, attribution source, stores, etc are precomputed with all the analysis.
+* In the product detail page, between the “Add to cart” button and product information: Buyers can add all products to cart with just one click.
+* In the product detail page, above the footer (in carousel style)
+* In cart page
 
-# PROFIT DATA
-Import your Cogs via Shopify or manually and Peel will produce a Cost & Profit metric for you, and an accurate LTV
+# Related products by Relevant conditions
 
-# GOALS & TRACKING
-Set monthly or quarterly goals to monitor how you're pacing on each individual metric. By having Peel report and track your pace towards your goal, you are able to align and motivate your team to succeed.
+The related products app selects the most relevant product recommendations based on the condition list such as:
 
-# MULTIPLE STORES + CURRENCY CONVERSION
-Connect multiple stores, in multiple currencies - no problem, Peel automatically converts currencies to a single currency so all your reporting for all you storefronts are accounted for.
+* Manual: Set recommended items for each product manually.
+* Bought together: Automatically analyze the store’s order information to give out the frequently also bought products list.
+* Same collection - Show related products in the same collection
+* Same product type - Show related products in the same product type
+* Same product tags - Show related products in the same product tag
+* And much more!
 
-# DAILY REPORTS
-Our daily Slack/Email reports inform you on trends without having to compute and search for them manually.
+Admin can set the priority order of those conditions for related products
 
-# DASHBOARDS
-Create your own Dashboards from Peel’s pre-computed data so you can consistently visit and check- on the segmented metrics that you care about most!
+# Frequently Bought Together just like Amazon.
+The app automatically analyze the store’s order information to give out the frequently bought together products list.
 
-No data modeling, and coding required. 
+# Responsive and highly customizable design for related products
+
+The app provides 3 pre-made templates which have already been fully responsive with all devices. Furthermore, admin can feel free to customize these 3 templates and put additional styles on them.
+
+# Automatic discount in related products
+
+You can give automatic discount for your customer if they add related products to cart.
+
+# Google Tracking
+You can tracking number view, click to related products by Google Analytics (utm_source=globoRelatedProduct)
+We also build the app analytic, so you can see total earning that generated from the app.
+
+# Strong customer support
+
+We offer support by LIVE CHAT during our company's work hours (UTC+7 8am - 5pm; Monday-Saturday ). At other times, please contact us via email support. We will respond within 48 hours.
