@@ -9,12 +9,25 @@ Additionally, it is also compatible with all Shopify themes.
 
 # How does recommended products work?
 
-At first, the system takes out the list of products based on the relevant conditions which have been defined by the website administrator inside the related products app.
-Buyers can see the recommended products list in three different positions:
+On the basis of our Globo Personalized recommendations app, admin can utilize a suitable logic to take out recommended items to display in the widgets such as:
 
-* In the product detail page, between the “Add to cart” button and product information: Buyers can add all products to cart with just one click.
-* In the product detail page, above the footer (in carousel style)
-* In cart page
+* New arrivals
+* Top-selling products
+* Recently viewed items
+* Recently purchased products
+* Products from selected collections
+* Products from selected product types
+* Products from selected product vendors
+* Products from selected product tags
+
+Another impressive feature that Personalized Recommendations by Globo provides is freely choosing locations to display the recommended widgets. Admin can place widgets on the top or bottom of these below pages:
+
+* Homepage
+* Collection page
+* Search page
+* Product detail page
+* Cart page
+* Anywhere by shortcode: admin can show the personalized recommendations widgets in any Shopify targeted areas by using auto-generated shortcodes.
 
 # Related products by Relevant conditions
 
@@ -39,7 +52,3 @@ The app provides 3 ready-made templates which have already been fully responsive
 # Automatic discount in related products
 
 You can offer automatic discount for your customer if they add related products to cart.
-
-# Strong customer support
-
-We offer support by LIVE CHAT during our company's work hours (UTC+7 8am - 5pm; Monday-Saturday ). At other times, please contact us via email support. We will respond within 48 hours.
