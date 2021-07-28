@@ -1,14 +1,16 @@
-Nowadays, customers are being greatly influenced by what others have done. Buyers tend to buy products that have already been purchased by the others.
+#Why is it necessary to display related products on Shopify store ?
 
-That’s the reason why the “Also bought” app becomes one of the necessary tools for every Shopify store. By giving smart recommended products as well as frequently bought products list, the shop revenues will be amazingly increased.
+In this day and age, customers always have an inclination to follow the crowd to purchase the products which gain a massive popularity
 
-This app has the super user-friendly interface as well as simplest configuration steps. No developer skills required.
+That’s the reason why the “Related Products” app becomes one of the necessary tools for every Shopify store. By giving smart recommended products as well as frequently bought products list, the shop revenues will be considerably increased.
+
+This app has the super user-friendly interface as well as simplest configuration steps. And most importantly, no technical expertise required.
 Additionally, it is also compatible with all Shopify themes.
 
 # How does recommended products work?
 
 At first, the system takes out the list of products based on the relevant conditions which have been defined by the website administrator inside the related products app.
-Shoppers can see the recommended products list in three different positions:
+Buyers can see the recommended products list in three different positions:
 
 * In the product detail page, between the “Add to cart” button and product information: Buyers can add all products to cart with just one click.
 * In the product detail page, above the footer (in carousel style)
@@ -32,15 +34,11 @@ The app automatically analyze the store’s order information to give out the fr
 
 # Responsive and highly customizable design for related products
 
-The app provides 3 pre-made templates which have already been fully responsive with all devices. Furthermore, admin can feel free to customize these 3 templates and put additional styles on them.
+The app provides 3 ready-made templates which have already been fully responsive with all devices. Furthermore, admin can have a wider choice of customizing all 3 templates with additional styles.
 
 # Automatic discount in related products
 
-You can give automatic discount for your customer if they add related products to cart.
-
-# Google Tracking
-You can tracking number view, click to related products by Google Analytics (utm_source=globoRelatedProduct)
-We also build the app analytic, so you can see total earning that generated from the app.
+You can offer automatic discount for your customer if they add related products to cart.
 
 # Strong customer support
 
