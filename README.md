@@ -39,7 +39,6 @@ The related products app selects the most relevant product recommendations based
 * Same product type - Show related products in the same product type
 * Same product tags - Show related products in the same product tag
 * And much more!
-
 Admin can set the priority order of those conditions for related products
 
 # Frequently Bought Together just like Amazon.
