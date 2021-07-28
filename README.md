@@ -9,7 +9,7 @@ Additionally, it is also compatible with all Shopify themes.
 
 # How does recommended products work?
 
-On the basis of our Globo Personalized recommendations app, admin can utilize a suitable logic to take out recommended items to display in the widgets such as:
+On the basis of our Globo Related Products | Also Bought app, admin can utilize a suitable logic to take out recommended items to display in the widgets such as:
 
 * New arrivals
 * Top-selling products
