@@ -12,4 +12,4 @@ Connect HubSpot and Shopify to sync customers, products, and deals. The sync tur
 Upgrade your marketing with this data by creating abandoned cart email nurturing, smart CTAs in content, product specific re-engagement ads, and much more. Power any of these campaigns with Workflows to automate on-going manual actions.
 
 # Build a brand your customers will love.
-To grow today, you have to stand out but the ecommerce giants out there make that hard. Inbound marketing provides a methodology built around content, social media, and organic search. It’ll help you attract an audience and build a brand that puts you above the pack.
+To grow today, you have to stand out but the ecommerce giants out there make that hard. Inbound marketing provides a methodology built around content, social media, and organic search. It’ll help you attract an audience and build a brand that puts you above the pack. hi
