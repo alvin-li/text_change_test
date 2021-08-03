@@ -1,63 +1,50 @@
 #Visit our UpPromote website to book a demo (1-on-1 consultation)
-#Why UpPromote:Affiliate Marketing by Secomapp
-Affiliate marketing is an ideal model for all size businesses that helps you advertise without any upfront cost. The tactic is simple: use ambassadors’ voices to reach a wider audience and increase revenue. Using our app, you can also encourage customers to refer friends and get rewards
+#Why does UpPromote stand out?
+Affiliate marketing is suitable for all-size businesses because you can advertise without any upfront cost. The tactic is simple: use ambassadors/ influencers’ voices to reach a wider audience and increase revenue. Using our app, you can also encourage customers to refer friends and get rewards
 
-The power of affiliate marketing as a method to grow businesses has been proven by the majority of UpPromote users. No technical knowledge is required. UpPromote helps you build, manage and succeed with Affiliate marketing
+No technical knowledge is required. UpPromote helps you build, manage and succeed with Affiliate marketing:
 
 * If you are new to affiliate marketing, our simple onboarding process will help you quickly understand how it works
 
 * If you want to build an ambassador team from scratch, the UpPromote Marketplace and Convert Customer function will help
 
-* Once your team is ready and needs a powerful tool to maximize the promotion effort, UpPromote - the realtime tracking and powerful affiliate management app will be your greatest assistance
+* Once your team is ready and needs a powerful tool to maximize the promotion effort, UpPromote will be your greatest assistance.
 
-#What does this app offer?
+#How can UpPromote help your business?
 
-#Build multiple commission offers
+#Grow your affiliate team
 
-* Affiliates/influencers will be grouped into program(s) with a commission structure
-* Setup Auto-tier commission to incentivize your team
-* Set different commission rates on different levels of order value (NEW)
-* Product commission
-* Customize the affiliate registration form
+* Create unlimited affiliate programs with different commission offers
+* Advanced offer options to attract more ambassadors (product commission, auto-tier commission, commissions on order values)
+* Easy-to-share affiliate registration form to get members to sign up
+* Get featured on UpPromote Marketplace to attract potential affiliates
+* Convert customers to brand ambassadors automatically
+* Grow your team exponentially with Multi-level Marketing (MLM)
 
-#Build your affiliate/ambassador team
-* Unlimited affiliates on all plans
-* Automatically convert customers to ambassadors
-* List your offer on UpPromote marketplace to approach more ambassadors
-* Let affiliates invite others with multi-level marketing (MLM)
+#Empower affiliates
+* Help affiliates access promotion resources: affiliate links, coupons, creatives (brand’s media assets)
+* Quickly create and assign coupons for affiliates/ influencers
+* Automatic discounts for visitors/customers using affiliate links
+* Each affiliate has his/her account to get resources and monitor the performance
 
-#Communicate with affiliates:
-* In-app chat with affiliates
-* Automated emails with customizable templates
-* Send bulk emails
+#Manage affiliate effectively
+* Control affiliates’ promotion effort and review every conversion recorded
+* Easily add a bonus and adjust the commission value
+* Lifetime commission is available for better motivation
+* Prevent affiliates’ self-referrals
+* Pay the team easily through PayPal, store credit or manually
 
-#Creatives upload:
-* Provide media assets to help brand ambassadors promote your store efficiently
+#Track the performance and grow your business
+* Communicate with the team through email and in-app chat.
+* Detailed report of ambassadors’ performances (clicks, orders, sales)
+* Keep track of the best performers
+* Analyze product trends with Product analytics
+* A dedicated support team and well-instructed guide are ready to help you grow
 
-#Track affiliate performance through:
-* Affiliate links (an automatic discount for a visitor using an affiliate link is available)
-* Coupons
-* Customer emails
-* Product SKUs
-* Lifetime commission
-
-#Control referral orders:
-* Merchant can review (approve/deny) referral orders
-* Manually add referrals
-* Prevent self-referrals
-
-#Reporting and analytics
-* Easily monitor referral traffic and sales with in-app analytics
-* Personal portal for affiliates to monitor their performance.
-
-#Easy payout
-* Reward your affiliates AUTOMATICALLY via PayPal integration
-* Pay with store coupons using Store Credit
-* Or pay manually through other payment options
-* Allow invoice exporting for paid referrals
-
-#Other advanced options:
+#What’s more?
+* Multi-stores and custom development for Enterprise packages
 * Translate affiliate accounts into 8 languages
+* Integrate with email services and subscription apps
+* Sync affiliate contacts with Shopify customers
 * Create staff accounts with full or limited access
 * Postback URL, Facebook pixel, API
-* Sync affiliate contacts with Shopify customers
