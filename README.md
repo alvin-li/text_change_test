@@ -18,7 +18,7 @@ team of AMP experts in the USA.
 * Phenomenal Page-Speed - AMP pages load blazing-fast and are automatically cached by Google for nearly instant load.
 
 ## New to AMP?
-We highly recommend checking out our documentation at shopsheriff.com/docs, or drop into our live chat, where we break down what AMP is and how it works for your
+We highly recommend checking out our documentation at shopsheriff.com/docs, where we break down what AMP is and how it works for your
 Shopify store.
 
 # Built-in Integrations include
