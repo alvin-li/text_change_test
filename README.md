@@ -1,50 +1,20 @@
-#Visit our UpPromote website to book a demo (1-on-1 consultation)
-#Why does UpPromote stand out?
-Affiliate marketing is suitable for all-size businesses because you can advertise without any upfront cost. The tactic is simple: use ambassadors/ influencers’ voices to reach a wider audience and increase revenue. Using our app, you can also encourage customers to refer friends and get rewards
+	
+# Connect Shopify and e-conomic
+The IEX app connects your Shopify shop and e-conomic automatically transferring orders, products and customers from your shop to your accounting program. So you no longer have to do more boring typing in e-conomic and can focus on running your business.
 
-No technical knowledge is required. UpPromote helps you build, manage and succeed with Affiliate marketing:
+# Features
+* Automatically transfer orders, products and customers to e-conomic
+* Real-time data transfer
+* Easy to set up in the user friendly IEX dashboard
+* Two way storage synchronization
+* Support you can count on
 
-* If you are new to affiliate marketing, our simple onboarding process will help you quickly understand how it works
+# Real-time data transfer
+Data is sent from your shop to e-conomic in real-time, that means you can keep track of your revenue throughout the day when orders appear in e-conomic shortly after they have been made in your shop.
 
-* If you want to build an ambassador team from scratch, the UpPromote Marketplace and Convert Customer function will help
+# Control the app in the dashboard
+The IEX dashboard allows you to easily control and configure the app. Here you can decide when orders are transferred to e-conomic according to financial state and follow statistics and logs.
+With the app it is possible to set up storage synchronization so your inventory in e-conomic is automatically sent to your Shopify shop.
 
-* Once your team is ready and needs a powerful tool to maximize the promotion effort, UpPromote will be your greatest assistance.
-
-#How can UpPromote help your business?
-
-#Grow your affiliate team
-
-* Create unlimited affiliate programs with different commission offers
-* Advanced offer options to attract more ambassadors (product commission, auto-tier commission, commissions on order values)
-* Easy-to-share affiliate registration form to get members to sign up
-* Get featured on UpPromote Marketplace to attract potential affiliates
-* Convert customers to brand ambassadors automatically
-* Grow your team exponentially with Multi-level Marketing (MLM)
-
-#Empower affiliates
-* Help affiliates access promotion resources: affiliate links, coupons, creatives (brand’s media assets)
-* Quickly create and assign coupons for affiliates/ influencers
-* Automatic discounts for visitors/customers using affiliate links
-* Each affiliate has his/her account to get resources and monitor the performance
-
-#Manage affiliate effectively
-* Control affiliates’ promotion effort and review every conversion recorded
-* Easily add a bonus and adjust the commission value
-* Lifetime commission is available for better motivation
-* Prevent affiliates’ self-referrals
-* Pay the team easily through PayPal, store credit or manually
-
-#Track the performance and grow your business
-* Communicate with the team through email and in-app chat.
-* Detailed report of ambassadors’ performances (clicks, orders, sales)
-* Keep track of the best performers
-* Analyze product trends with Product analytics
-* A dedicated support team and well-instructed guide are ready to help you grow
-
-#What’s more?
-* Multi-stores and custom development for Enterprise packages
-* Translate affiliate accounts into 8 languages
-* Integrate with email services and subscription apps
-* Sync affiliate contacts with Shopify customers
-* Create staff accounts with full or limited access
-* Postback URL, Facebook pixel, API
+# Fantastic support
+At IEX we are always happy to answer any questions about the app.
