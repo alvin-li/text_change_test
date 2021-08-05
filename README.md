@@ -1,19 +1,34 @@
-# Connect Shopify and e-conomic
-The IEX app connects your Shopify shop and e-conomic automatically transferring orders, products and customers from your shop to your accounting program. So you no longer have to do more boring typing in e-conomic and can focus on running your business.
+# AMP - Accelerated Mobile Pages
 
-# Features
-* Automatically transfer orders, products and customers to e-conomic
-* Real-time data transfer
-* Easy to set up in the user friendly IEX dashboard
-* Two way storage synchronization
-* Support by email and chat
+Your AMP solution is here. Add Google AMP to your store and start receiving search-engine benefits given to amped pages in mobile search results.
 
-# Real-time data transfer
-Data is sent from your shop to e-conomic in real-time, that means you can keep track of your revenue throughout the day when orders appear in e-conomic shortly after they have been made in your shop.
+## Bring more mobile traffic with AMP
+Mobile traffic is growing faster than ever. AMP (or Accelerated Mobile Pages) is an initiative invented by Google to speed up the mobile web. This app converts parts of your store to AMP, and indexes your pages with Google for nearly instant load times, faster mobile page speed, and higher mobile search results.
 
-# Control the app in the dashboard
-The IEX dashboard allows you to easily control and configure the app. Here you can decide when orders are transferred to e-conomic according to financial state and follow statistics and logs.
-With the app it is possible to set up storage synchronization so your inventory in e-conomic is automatically sent to your Shopify shop.
+# The AMP solution for your Shopify store
+* The most installed, most trusted, and most customizable AMP solution for Shopify ever. Backed by the creators and supported by a highly skilled team in the USA.
+* AMP Products, Collections, and Blogs - convert each page into AMP format, with a beautiful header, footer, and styles.
+* Product Reviews - integrate directly with 9 different reviews providers from across the Shopify ecosystem.
+* SEO-friendly URLs - optimized URLs for SEO to ensure your AMP pages rank the highest they possibly can.
+* Image, video, and iframe support - you may use images, embedded youtube videos, and iframes in your pages. We correctly parse these into AMP.
+* Customizable menu links - edit all your AMP sidebar links as you would your normal site.
+* Customizable footer links - add relevant links to AMP pages and comply with GDPR.
+* Phenomenal Page-Speed - AMP pages load blazing-fast and are automatically cached by Google for nearly instant load.
+* Sticky cart button - keep a more app-like mobile experience and drive more sales with a sticky "Add to Cart" button at the bottom of the AMP pages.
+* Buy Now button - send users straight to the checkout page to increase conversion rates.
+* Link to your full site - add a optional link to your non-AMP pages if desired.
+* Intelligent "Related Products" - show similar products to your visitors
+* Google Analytics / Google Tag Manager integration.
+* Facebook Pixel Integration.
 
-# Fantastic support
-At IEX we are always happy to answer any questions about the app.
+### Customize your AMP pages to match your brand
+Adjust the look and feel of your AMP pages, and then preview them using our live editor (similar to a page builder).
+
+# Powerful SEO & mobile page speed optimization
+We do all the heavy lifting to cache your AMPed pages and index them as high as possible with Google.
+
+# Get prioritized by Google
+Google gives SEO benefits to AMP-enabled mobile pages. AMPing your site can be the difference between page 3 and page 1. Don't let your competitors outrank you.
+
+# Need More Info?
+Have a question about our service? Want to know more about amp or pwa? Chat with us directly from your dashboard.
