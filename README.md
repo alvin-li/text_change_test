@@ -1,4 +1,3 @@
-	
 # Connect Shopify and e-conomic
 The IEX app connects your Shopify shop and e-conomic automatically transferring orders, products and customers from your shop to your accounting program. So you no longer have to do more boring typing in e-conomic and can focus on running your business.
 
@@ -7,7 +6,7 @@ The IEX app connects your Shopify shop and e-conomic automatically transferring 
 * Real-time data transfer
 * Easy to set up in the user friendly IEX dashboard
 * Two way storage synchronization
-* Support you can count on
+* Support by email and chat
 
 # Real-time data transfer
 Data is sent from your shop to e-conomic in real-time, that means you can keep track of your revenue throughout the day when orders appear in e-conomic shortly after they have been made in your shop.
