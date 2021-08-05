@@ -22,27 +22,29 @@ We highly recommend checking out our documentation at shopsheriff.com/docs, wher
 Shopify store.
 
 # Built-in Integrations include
-* 14 product reviews providers
+* 16 product reviews providers
+* Custom CSS
 * Newsletter popup
 * Related products
 * Product tabs
 * Product swatches
 * Sticky cart
 * Trust badges
-* Custom CSS
 * Size charts
 * External chat
 * Cookie banner
 * Google Analytics
 * Google Tag Manager
 * Facebook Pixel
+* RecipeKit
+* Kiwi Sizing
 * More...
 
 # Enterprise Integrations include
-* Kiwi Sizing
 * Back In Stock
 * Foursixty, Snapppt
-* Klarna, Sezzle, AfterPay, ViaBill, Affirm, TryNow.io
+* Postscript, Attentive
+* Klarna, Sezzle, AfterPay, ViaBill, Affirm
 * Google AdSense, Mantis Ad Network
 * More...
 
