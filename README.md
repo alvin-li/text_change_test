@@ -1,58 +1,36 @@
-# AMP - Accelerated Mobile Pages
+##What is MuseFind?
+A FREE & Easy-To-Use Influencer Marketing CRM Platform To Find & Contact Your Influencer Marketing Stars Before They Become Mega-Stars. MuseFind is a low-barrier launchpad to help you access the world of Influencer Marketing and grow your business.
 
-## Officially recommended by Google, AMP by Shop Sheriff allows you to create Accelerated Mobile Pages (AMP) which receive the coveted lightning bolt beside their mobile search result, meaning better organic SEO, nearly instant page-loads, and more revenue for your business.
+##On the Free Basic Plan, you can:
 
-## Bring more mobile traffic with AMP
-Mobile traffic is growing faster than ever. AMP (or Accelerated Mobile Pages) is an initiative invented by Google to speed up the mobile
-web. This app allows you to create AMP versions of your most popular pages, and indexes your pages with Google for nearly instant load times, faster mobile page
-speed, and higher mobile search results.
+* Access to Verified Influencer Profiles
+* Product-In-Kind Exchanges OR Paid Compensation: You Choose!
+* Pre-Customized Message Templates: Always Know What To Say
 
-# The AMP solution for your Shopify store
-* The most installed, most trusted, and most customizable AMP solution for Shopify ever. Officially recommended by Google, and backed by a
-team of AMP experts in the USA.
-* Use our intuitive page-builder to create and edit your AMP templates with ease and comfort.
-* AMP your Home page, Products, Collections, Blogs, and Pages - convert each page into AMP format, with a beautiful header, footer, and styles.
-* The most integrations of any AMP solution, to help improve conversions and create a seamless AMP experience for your customers.
-* SEO-friendly URLs - optimized URLs for SEO to ensure your AMP pages rank the highest they possibly can.
-* Image, video, and iframe support - you may use images, embedded youtube videos, and iframes in your pages. We correctly parse these into AMP.
-* Phenomenal Page-Speed - AMP pages load blazing-fast and are automatically cached by Google for nearly instant load.
+##Great Fit For:
+* Shopify stores with ready-to-go products or service in the following categories:
+Pets, Fitness, Food, Women's & Children Fashion and Menswear.
+* Shop owners and stores who have previously had positive reviews and feedback from customers
+* Works best if you have an Instagram page for your store/shop
 
-## New to AMP?
-We highly recommend checking out our documentation at shopsheriff.com/docs, where we break down what AMP is and how it works for your
-Shopify store.
+##Supporting You All The Way
+* Our on-site messaging app is on 24/7 and a specialist from the team will always be readily available to answer questions within 2 business days or sooner.
+* Easy self-learning portal on the dashboard
+* Learn “how to” use influencer marketing in less than 5 minutes
 
-# Built-in Integrations include
-* 16 product reviews providers
-* Custom CSS
-* Newsletter popup
-* Related products
-* Product tabs
-* Product swatches
-* Sticky cart
-* Trust badges
-* Size charts
-* External chat
-* Cookie banner
-* Google Analytics
-* Google Tag Manager
-* Facebook Pixel
-* RecipeKit
-* Kiwi Sizing
-* More...
+##FAQ
+###What kinds of influencers are on MuseFind?
+* All of the influencers are added by the brands and shops on MuseFind
+* Micro-influencers are our specialty! You'll find that they're easier to work with, responsive and engaging with their audiences (YOUR potential customers!)
+* Influencers who have worked with other shops and brands will have badges on their profiles so you can easily find ones you can trust
 
-# Enterprise Integrations include
-* Back In Stock
-* Foursixty, Snapppt
-* Postscript, Attentive
-* Klarna, Sezzle, AfterPay, ViaBill, Affirm
-* Google AdSense, Mantis Ad Network
-* More...
+###Where are your influencers?
+* Most of the influencers on MuseFind have an Instagram account but they also have blogs, YouTube and other platforms
+* We have geo-tagged influencers and you can sort by country and state (USA) and globally
+* We have a mostly English speaking demographic of influencers but their audiences can be worldwide
 
-# Powerful SEO & mobile page speed optimization
-We do all the heavy lifting to cache your AMPed pages and index them as high as possible with Google.
-
-# Get prioritized by Google
-Google gives SEO benefits to AMP-enabled mobile pages. AMPing your site can be the difference between page 3 and page 1. Don't let your competitors outrank you.
-
-# Need More Info?
-Have a question about our service? Want to know more about AMP (or PWA)? Chat with us directly from your dashboard.
+###How much does MuseFind cost?
+* Our basic plan is FREE forever for all users
+* Upgrades for advanced features available
+* Negotiating with influencers is in your control, we don't take a fee from recruiting or hiring influencers
+* No obligation to hire an influencer to promote your store
