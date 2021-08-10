@@ -1,37 +1,32 @@
-##What is MuseFind?
-An Easy-To-Use Influencer Marketing Automation Platform To Find & Contact Your Influencer Marketing Stars Before They Become Mega-Stars. MuseFind is a low-barrier launchpad to help you access the world of Influencer Marketing and grow your business.
-
-##For one flat monthly fee you can:
-
-* Access to Verified Influencer Profiles
-* Add your own influencers that you find or discover them on our platform
-* Product-In-Kind Exchanges OR Paid Compensation: You Choose!
-* Pre-Customized Message Templates: Always Know What To Say
-
-##Great Fit For:
-* Shopify stores with ready-to-go products or service in the following categories:
-Pets, Fitness, Food, Women's & Children Fashion and Menswear.
-* Shop owners and stores who have previously had positive reviews and feedback from customers
-* Works best if you have an Instagram page for your store/shop
-
-##Supporting You All The Way
-* Our on-site messaging app is on 24/7 and a specialist from the team will always be readily available to answer questions within 2 business days or sooner.
-* Easy self-learning portal on the dashboard
-* Learn “how to” use influencer marketing in less than 5 minutes
-
-##FAQ
-###What kinds of influencers are on MuseFind?
-* All of the influencers are added by the brands and shops on MuseFind
-* Micro-influencers are our specialty! You'll find that they're easier to work with, responsive and engaging with their audiences (YOUR potential customers!)
-* Influencers who have worked with other shops and brands will have badges on their profiles so you can easily find ones you can trust
-
-###Where are your influencers?
-* Most of the influencers on MuseFind have an Instagram account but they also have blogs, YouTube and other platforms
-* We have geo-tagged influencers and you can sort by country and state (USA) and globally
-* We have a mostly English speaking demographic of influencers but their audiences can be worldwide
-
-###How much does MuseFind cost?
-* A flat monthly fee of $50 gives you the full access to the automation platform and influencer portal
-* Upgrades for advanced features available
-* Negotiating with influencers is in your control, we don't take a fee from recruiting or hiring influencers
-* No obligation to hire an influencer to promote your store
+# Features
+* Fully Responsive Popup.
+* Admin can show the subscription form into the Popup.
+* This Application supports discount coupon system.
+* Fully customizable and many advance features for the Popup design
+* Admin can design the custom popup according to his website template using html editor.
+* Admin can place YouTube/Vimeo embed videos, image or any sort of HTML/custom content in the subscription popup.
+* There are some Popup Templates available for this Application. So Admin can select any template.
+* Admin can customize the popup design or selected template and can check the preview.
+Popup display time can be set like after 1minute, 1day, 1 week, 1 month, 3 month, 6 month and 1 year.
+* Admin can set the Bottom Content position to Left, Center or Right.
+* Admin can set the “Display option” for homepage, catalog page, product pages, blog pages or other pages.
+* Admin can set popup background image, popup width, height, background color with gradient, border color and overlay color.
+* Admin can active/deactivate the popup.
+* Admin can set the subscription mandatory or not.
+* Admin can set the "Popup Delay Time" 0 to 100 seconds from admin panel.
+* Admin can set the 3 types of "Subscription Form Fields" from admin panel.
+* Subscription Button text, width, button color and button hover color with gradient can be customize from admin.
+* “Subscription Success Message”, “Subscription Text Box” and “Subscription Button Designs” are customizable.
+* Admin can set the “Container Border Radius”. It will help to design the popup angles.
+* Two color boxes are there to set the Gradient color and if you want to make Gradient color, it will be better to use light and deep combination. If you not use Gradient then put one field blank.
+* It has option to send email newsletter to registered user.
+* Easy installation and setup.
+# WE ALSO HAVE THE FOLLOWING AMAZING APPS FOR YOUR STORE
+* MailChimp Custom Popup
+* GetResponse Custom Popup
+* AWeber Custom Popup
+* ConstantContact Custom Popup
+* Product Options and Customizer
+* Quick Order
+# Need Custom Shopify Development or Design? We Can Help!
+Our services include setup, development, design, illustration, custom apps. We've worked with hundreds of stores. You can check our expert profile on Shopify Experts site by Searching SolverCircle there. Contact us for any kind of support or service.
