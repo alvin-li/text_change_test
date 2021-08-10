@@ -1,9 +1,10 @@
 ##What is MuseFind?
-A FREE & Easy-To-Use Influencer Marketing CRM Platform To Find & Contact Your Influencer Marketing Stars Before They Become Mega-Stars. MuseFind is a low-barrier launchpad to help you access the world of Influencer Marketing and grow your business.
+An Easy-To-Use Influencer Marketing Automation Platform To Find & Contact Your Influencer Marketing Stars Before They Become Mega-Stars. MuseFind is a low-barrier launchpad to help you access the world of Influencer Marketing and grow your business.
 
-##On the Free Basic Plan, you can:
+##For one flat monthly fee you can:
 
 * Access to Verified Influencer Profiles
+* Add your own influencers that you find or discover them on our platform
 * Product-In-Kind Exchanges OR Paid Compensation: You Choose!
 * Pre-Customized Message Templates: Always Know What To Say
 
@@ -30,7 +31,7 @@ Pets, Fitness, Food, Women's & Children Fashion and Menswear.
 * We have a mostly English speaking demographic of influencers but their audiences can be worldwide
 
 ###How much does MuseFind cost?
-* Our basic plan is FREE forever for all users
+* A flat monthly fee of $50 gives you the full access to the automation platform and influencer portal
 * Upgrades for advanced features available
 * Negotiating with influencers is in your control, we don't take a fee from recruiting or hiring influencers
 * No obligation to hire an influencer to promote your store
