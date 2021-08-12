@@ -2,7 +2,7 @@ With this app you can easily create OLX ads for your products and manage them wi
 
 You can create one ad for each product or product variant, if your products have multiple variants.
 
-The app works with OLX Romania and OLX Poland. For activating it on other OLX countries, please get in touch with us.
+The app works with OLX Romania, OLX Portugal and OLX Poland. For activating it on other OLX countries, please get in touch with us.
 
 # Create or Edit the ad for one product or variant
 In this case you have full control over the ad details, you can change price, title, description or the other attributes which depend on the selected category of the ad.
