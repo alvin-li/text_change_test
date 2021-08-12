@@ -1,8 +1,8 @@
-VizB (Vi-z-bee), abbreviated from the term Visual Beacon is a one-of-a-kind product curated by a team of Data Scientists who understand the importance of insights required for the eCommerce industry.
+vizB (Vi-z-bee), abbreviated from the term Visual Beacon is a one-of-a-kind product curated by a team of Data Scientists who understand the importance of insights required for the eCommerce industry.
 
-VizB is a no-code app which helps you to easily connect your store data and get insights on how your business is performing and make factual decisions based on the derived data.
+vizB is a no-code app which helps you to easily connect your store data and get insights on how your business is performing and make factual decisions based on the derived data.
 
-What is different about VizB?
+What is different about vizB?
 
 The app stands out majorly because you do not need any code or think of Data Analytics methods to bring out the required metrics.
 
