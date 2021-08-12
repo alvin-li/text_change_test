@@ -17,6 +17,10 @@ When this option is used, the ads are created using the following rules:
 * First 8 product images will be used.
 * Attribute values will be replaced by defaults if defaults are defined for the selected category.
 
+# Automation
+* Disable/Enable ads based on stock - If checked, the app automatically deactivates ads when the product is out of stock and reactivates it if the product is back in stock.
+* Reactivate ads when expired - Once a day, the app checks all your ads and re-activates ads with status outdated (the is the status that an ad gets when it's validity period ends).
+
 # Default attributes for speed and consistency.
 Default attributes can be used in two ways:
 
