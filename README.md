@@ -1,29 +1,50 @@
-With this app you can easily create OLX ads for your products and manage them with bulk actions to activate, deactivate or delete the ads.
+# Wholesale Pricing Discount (WPD)
 
-You can create one ad for each product or product variant, if your products have multiple variants.
+Now you can offer wholesale prices for specific customers on your shopify store! Just select the customer or customer group, a specific discount type, and what product's you'd like to offer them for. You can choose collections, individual products, or the entire store. Have a lot of different customers and stockists? We also allow you to create minimum quantities or dollars spent for the order too. Specific wholesale shipping rates can be applied as well!
 
-The app works with OLX Romania, OLX Portugal, OLX Poland and OLX Bulgaria. For activating it on other OLX countries, please get in touch with us.
+We integrate with Wholesale Order Form & ReOrder and Wholesale Lock Manager.
 
-# Create or Edit the ad for one product or variant
-In this case you have full control over the ad details, you can change price, title, description or the other attributes which depend on the selected category of the ad.
-You can select up to eight images for the ad, from the product's images.
+Five-Star Support and Free Installation for Basic Themes :)
 
-# Create ads for multiple products in one category
-You can select multiple products and create ads for all of them, in one action, in the same OLX category.
-When this option is used, the ads are created using the following rules:
+**Themes with advanced javascript (quick view, cart-drawer, etc) may need a small setup fee.
 
-* An ad will be created for each product variant, if it doesn't have one created, yet.
-* All ads will use product's title and description shortened if necessary, to fit ad's limits.
-* First 8 product images will be used.
-* Attribute values will be replaced by defaults if defaults are defined for the selected category.
+# Set discounts based on percentage and specific prices
+No limit on the number of discounts you’d like to set. You can set by percentage off (ie 50% off), or by specific price (ie $19.99 for wholesale). Set specific prices with a price list.
 
-# Automation
-* Disable/Enable ads based on stock - If checked, the app automatically deactivates ads when the product is out of stock and reactivates it if the product is back in stock.
-* Reactivate ads when expired - Once a day, the app checks all your ads and re-activates ads with status outdated (the is the status that an ad gets when it's validity period ends).
+# Set discounts for specific products, collections, or the entire store
+Complete flexibility in setting discounts. Set discounts by product, collection or your site.
 
-# Default attributes for speed and consistency.
-Default attributes can be used in two ways:
+# Import/Export Prices
+Have a lot of products and SKUs? Fill the prices out in excel and import them back into our system.
 
-* To preselect attribute values when you create a new ad for a product - after you select the ad category and the attributes for that category are displayed
-* To set the value of an attribute when you create ads in bulk, for more products at the same time
-Using this feature will save you time and ensure you have a consistent mapping between the OLX category attributes and your product variant options.
+# Set volume and tiered discounts
+Want to give discounts to customers that buy more? Our volume discount lets you reduce prices as the customer buys more. For example, if you buy 10 T-shirts, they are $9.99. If you buy 20 T-shirts, they are $7.99.
+
+# Set minimum quantity or dollar requirements to receive discounts
+Ensure customers buy enough products or total value ($$) before receiving the discount to check out with.
+
+# Set advanced wholesale shipping rates
+Reduce or increase shipping rates by amount a customer purchases.
+
+# Wholesale Analytics
+
+# Net 15/30 Payment Terms (or customize payment terms)
+Customers can pay with the terms you set on net orders. No need to collect when they order as they can skip checkout.
+
+# Manual Orders
+Enter orders for your customers if they typically like to place them through phone or email. Works with discounts percentages and individual pricing.
+
+# Wholesale Sign Up Form with Auto-tagging
+Start offering discounts immediately or approve once they sign up
+
+#NO additional variants or duplicate products created
+We only use the product you have in your backend to keep operations simple
+
+# Free Basic Theme Installation
+We’re here to ensure a successful setup process so you can start selling wholesale to your customers.
+
+# Integrations!
+
+# Amazing 5 star customer support
+
+Most emails are answered within hours (if not minutes) and guaranteed within 1 business day. We also can help you set up an order form and password protecting the wholesale area. Just email us and let us know :)
