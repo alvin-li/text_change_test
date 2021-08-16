@@ -1,6 +1,6 @@
 # Wholesale Pricing Discount (WPD)
 
-Now you can offer wholesale prices for specific customers on your shopify store! Just select the customer or customer group, a specific discount type, and what product's you'd like to offer them for. You can choose collections, individual products, or the entire store. Have a lot of different customers and stockists? We also allow you to create minimum quantities or dollars spent for the order too. Specific wholesale shipping rates can be applied as well!
+Now you can offer wholesale prices for specific customers on your Shopify store! Just select the customer or customer group, a specific discount type, and what product's you'd like to offer them for. You can choose collections, individual products, or the entire store. Have a lot of different customers and stockists? We also allow you to create minimum quantities or dollars spent for the order too. Specific wholesale shipping rates can be applied as well!
 
 Five-Star Support :)
 
