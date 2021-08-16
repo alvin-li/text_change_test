@@ -2,11 +2,7 @@
 
 Now you can offer wholesale prices for specific customers on your shopify store! Just select the customer or customer group, a specific discount type, and what product's you'd like to offer them for. You can choose collections, individual products, or the entire store. Have a lot of different customers and stockists? We also allow you to create minimum quantities or dollars spent for the order too. Specific wholesale shipping rates can be applied as well!
 
-We integrate with Wholesale Order Form & ReOrder and Wholesale Lock Manager.
-
-Five-Star Support and Free Installation for Basic Themes :)
-
-**Themes with advanced javascript (quick view, cart-drawer, etc) may need a small setup fee.
+Five-Star Support :)
 
 # Set discounts based on percentage and specific prices
 No limit on the number of discounts you’d like to set. You can set by percentage off (ie 50% off), or by specific price (ie $19.99 for wholesale). Set specific prices with a price list.
@@ -40,7 +36,6 @@ Start offering discounts immediately or approve once they sign up
 #NO additional variants or duplicate products created
 We only use the product you have in your backend to keep operations simple
 
-# Free Basic Theme Installation
 We’re here to ensure a successful setup process so you can start selling wholesale to your customers.
 
 # Integrations!
