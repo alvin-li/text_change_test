@@ -1,45 +1,13 @@
-# Wholesale Pricing Discount (WPD)
+### The Creators Toolkit For Shopify
 
-Now you can offer wholesale prices for specific customers on your Shopify store! Just select the customer or customer group, a specific discount type, and what product's you'd like to offer them for. You can choose collections, individual products, or the entire store. Have a lot of different customers and stockists? We also allow you to create minimum quantities or dollars spent for the order too. Specific wholesale shipping rates can be applied as well!
+#Fan Insights
 
-Five-Star Support :)
+Do you know who your biggest fan is in Tennessee? What about the entire United Kingdom? Quickly identify your superfans based on detailed purchase data from your store.
 
-# Set discounts based on percentage and specific prices
-No limit on the number of discounts you’d like to set. You can set by percentage off (ie 50% off), or by specific price (ie $19.99 for wholesale). Set specific prices with a price list.
+#Monetized Video Content
 
-# Set discounts for specific products, collections, or the entire store
-Complete flexibility in setting discounts. Set discounts by product, collection or your site.
+Boost your livestream and video revenue by selling access to private content in your store. Host everything from concerts and album listening parties to private Q&As and screenings.
 
-# Import/Export Prices
-Have a lot of products and SKUs? Fill the prices out in excel and import them back into our system.
+# Music & Audio Deliver
 
-# Set volume and tiered discounts
-Want to give discounts to customers that buy more? Our volume discount lets you reduce prices as the customer buys more. For example, if you buy 10 T-shirts, they are $9.99. If you buy 20 T-shirts, they are $7.99.
-
-# Set minimum quantity or dollar requirements to receive discounts
-Ensure customers buy enough products or total value ($$) before receiving the discount to check out with.
-
-# Set advanced wholesale shipping rates
-Reduce or increase shipping rates by amount a customer purchases.
-
-# Wholesale Analytics
-
-# Net 15/30 Payment Terms (or customize payment terms)
-Customers can pay with the terms you set on net orders. No need to collect when they order as they can skip checkout.
-
-# Manual Orders
-Enter orders for your customers if they typically like to place them through phone or email. Works with discounts percentages and individual pricing.
-
-# Wholesale Sign Up Form with Auto-tagging
-Start offering discounts immediately or approve once they sign up
-
-#NO additional variants or duplicate products created
-We only use the product you have in your backend to keep operations simple
-
-We’re here to ensure a successful setup process so you can start selling wholesale to your customers.
-
-# Integrations!
-
-# Amazing 5 star customer support
-
-Most emails are answered within hours (if not minutes) and guaranteed within 1 business day. We also can help you set up an order form and password protecting the wholesale area. Just email us and let us know :)
+Since 2018, we’ve delivered over 3 million records for artists like Juice WRLD, Harry Styles, Foo Fighters, Dua Lipa & more. Take control of your music and money by selling direct from Shopify. Sell individual tracks, albums, pre-orders and bundles with the option for automated chart reporting on eligible items.
