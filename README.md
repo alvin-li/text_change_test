@@ -44,4 +44,4 @@ Beauty product description example:
 - Product: TextCortex Night Cream
 - Description: A high-performance anti-aging eye cream that uses only the hottest ingredients to help minimize the appearance of lines and wrinkles, while minimizing dark circles. It also contains a unique blend of peptides, peptides, and antioxidants to help treat fine lines and wrinkles.
 
-TextCortex AI, Product Description Generator - SEO-friendly product descriptions that sell. 10x Cheaper and 10x faster than outsourcing.
+TextCortex AI, Product Description Generator - SEO-friendly product descriptions that sell. Cheaper and faster than outsourcing copywriting.
