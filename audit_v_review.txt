@@ -12,7 +12,6 @@ App name fields do not match
 
 Use the same name on the app listing and in your Partner Dashboard. Change the name on the App setup page in the Partner Dashboard or on this app's listing form to comply with our requirements. See this screenshot for additional details.
 
-
 Authentication
 Must authenticate first
 
