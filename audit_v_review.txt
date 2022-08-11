@@ -1,0 +1,248 @@
+Submission must include test credentials
+
+Include account credentials in section G.1 of the app listing so we can complete the audit.
+App Checks
+Must include GDPR webhook subscriptions
+
+Your app must use the mandatory GDPR webhooks. Shopify requires all apps to be GDPR compliant. Add our mandatory webhooks to your app from the App setup page. See this screenshot for additional details.
+Must have matching API Key to Partner account
+
+Match your existing unique API keys created for this app. The API keys are listed on the App Overview in your Partner Dashboard. See this screenshot for more context.
+App name fields do not match
+
+You must use the same name on the app listing and in your Partner Dashboard. Change the name on the App setup page in the Partner Dashboard or on this app's listing form to comply with our requirements. See this screenshot for additional details.
+
+
+Authentication
+Must authenticate first
+
+Use OAuth to ask for scope permissions immediately after merchants add your app. Check and troubleshoot your app's OAuth by reinstalling your app on your test store using this method. See this screencast for context on your existing install flow.
+Must install successfully
+
+We were redirected to an error page when attempting to install your app. Please test your app's installation on a development store using OAuth. Please see this screenshot for additional details.
+Must redirect to app UI after install
+
+Redirect merchants to your app after they've completed OAuth and approved charges. See this screencast for additional details.
+Must not have OAuth authentication errors
+
+Resolve issues that are returning errors after authenticating with OAuth on install to comply with our requirements. You cannot request a merchant's .myshopify.com URL. See this screencast for additional details.
+Billing
+[Escalate] Must use Shopify Billing API
+
+[DO NOT USE CRITERIA] Use the Billing API to process all charges associated with your app and comply with our requirements.
+Must not have errors after activating charge
+
+Ensure that your charges are properly configured and resolve the errors occurring after charges are activated. See  this screenshot  for additional details.
+Must allow changing between pricing plans
+
+If there are multiple pricing plans available for your app, merchants must be able to change the pricing plan they're using without contacting support or deleting the app. Review how to process upgrades and downgrades. See this screencast of how your app is processing these changes.
+Security
+Must have valid SSL certificate installed on server
+
+Install an SSL certificate to meet our security requirements and ensure your app has a secure connection.
+Must not have errors on SSL certificate
+
+Resolve mixed content errors affecting your SSL certificate to comply with our requirements. All embedded apps must have a valid SSL certificate. Review this example of a valid HTTPS certificate in the Chrome developer console.
+Merchant setup and workflows
+Must use Shopify APIs after install
+
+Your app doesn't use or need Shopify's API. All apps must be configured to use our API. This helps ensure that the app best serves merchants. Learn more about using our API.
+Must have UI merchants can interact with
+
+Your app doesn't have a functional user interface (UI). All apps in the Shopify App Store must be operational through a UI. See this recording of your app being tested for additional details.
+Must direct any promoted apps to their App Store listing
+
+When encouraging a merchant to install additional apps or connect the app to another store, apps must use the standard install process initiated from the app listing. You can't request a merchant's .myshopify.com URL. See this screenshot for additional details.
+Must not have OAuth or billing approval in pop-up windows
+
+Don't use pop-up windows for essential app functionality like running OAuth or approving app charges. This protects the functionality of your app from being compromised by pop-up blockers. See this screenshot for additional details.
+Must not request to create a private app
+
+The Shopify App Store only lists public apps. Apps that require merchants to generate private API keys aren't accepted.
+Must not revoke API permissions
+
+Use the uninstall button on the App index page to allow merchants to revoke API permissions. Permissions can't be revoked from within the app's user interface.
+Must not contain errors when accessing from app index
+
+Resolve errors to allow merchants to access your app from the app index page. See  this screenshot  for additional details.
+Must have reasonable load times
+
+Optimize your app to have a fast startup and load time. We recommend a load time of less than 4 seconds. Learn how to improve the performance of your app. See  this screencast for additional details about your app's performance.
+Risk
+[Escalate] Must not incentivize reviews
+
+[DO NOT USE CRITERIA] Instigating app review abuse on the Shopify App Store violates Part C of our Partner Program Agreement. Remove all offers to incentivise reviews for your app. Review these examples of review requests that aren't tolerated. See this screenshot for additional details.
+Must not request permissions for unused scopes
+
+Only request permissions for API scopes that are required for your app to function. Your app is requesting scopes that aren't in use, so make changes to comply with our requirements. See  this screenshot  for additional details.
+Must not use APIs deprecating in less than 3 months
+
+Your app is currently making calls to APIs that will deprecate in less than three months. Use a supported version of the API for your app. See this screenshot for additional details.
+Re-Installation
+Must re-install properly
+
+Your app hasn't implemented authentication through OAuth correctly and can't be reinstalled. Review our OAuth documentation and see  this screenshot  for additional details.
+Branding
+Must not use Shopify brand in graphics
+
+Remove our trademarks from your app icon, banner, key benefits, or screenshots. Our trademarks can only be used to communicate your app's compatibility with Shopify in accordance with our brand guidelines.
+Must not contain Fed-Ex branding
+
+Remove Fed-Ex brand assets from your app listing to comply with our requirements. See this screenshot for additional details.
+[Escalate] Must not use 'Shopify' in domain or email addresses
+
+[DO NOT USE CRITERIA] Remove the term “Shopify” from your domain, subdomain, or email. Your current use of “Shopify” doesn’t comply with our Partner Program Agreement in sections 5.3.1. and 5.3.2. Variations or misspellings of Shopify trademarks are not permitted in your domain, email, partner name, or app name, without express written permission.
+Must not have a generic app name
+
+Update your app name to something unique. Using a generic descriptor as an app name doesn't comply with our requirements. Ensure you also update your app's name in the Partner Dashboard.
+
+Descriptions
+Must not have Links or URLs in listing description
+
+Remove all links and URLs from your detailed app description and move them to the appropriate fields. Keep links and URLs in their designated fields to comply with our requirements. See this screenshot for additional details.
+Must not have stats or data in listing
+
+Remove all statistics and data from your app's key benefits and detailed description. This includes verifiable and unverifiable information which doesn't comply with our requirements. Focus on your app's benefits when rewriting your listing and avoid using terms like "the first", "the best", or "the only". See this screenshot for additional details.
+Must not have competitors listed
+
+Remove the names of Shopify competitors from your app’s listing content. You can only list direct software integrations in compliance with our requirements. See this screenshot for additional details.
+Must not have reviews or testimonials in listing
+
+Remove reviews and testimonials from your app's detailed description and other undesignated app listing areas. Keep reviews and testimonials in the merchant reviews section to comply with our requirements. See this screenshot for additional details.
+Must not have cross promotional content in description
+
+Remove references to your other apps and services from your app listing content. Instead, consider directing merchants to click on your developer name on the listing to view your other published apps. See this screenshot for additional details.
+Must not list other apps in search terms
+
+Remove competitors, other apps, and unrelated terms from the search terms field. Only relevant descriptors that help merchants discover your app comply with our requirements. See this screenshot for additional details.
+Must not have support or contact information in listing
+
+Remove support or contact information from the undesignated areas of your app listing to comply with our requirements. This information is only permitted in the Sales and Support fields. See this screenshot for additional details.
+Must have landing page that's complete and error-free
+
+Edit the URLs in your app listing to be complete and successfully direct merchants to finished, error-free webpages. See this screenshot for additional details.
+Must have URL that directs to a landing page
+
+Change your URL in the Website URL field to link to a landing page. Linking support or contact pages from this field doesn't comply with our requirements. Note that this field is optional and can instead be omitted.
+
+
+Must have a linked Privacy Policy URL
+
+Add a link to your Privacy Policy in the Privacy Policy URL field. Privacy Policy URL's are part of our requirements. Please see this link for an example Privacy Policy template."}" data-sheets-userformat="{"2":771,"3":{"1":0},"4":[null,2,15987699],"11":4,"12":0}">Add a link to your Privacy Policy in the Privacy Policy URL field. Privacy Policy URL's are part of our requirements. Please see this link for an example Privacy Policy template.
+Must not have special characters in description
+
+Remove all special characters from your detailed app description to comply with our requirements. See this screenshot for additional details.
+Must have good grammar and punctuation
+
+Edit your app listing grammar using consistent tone, punctuation, and capitalization to comply with our requirements. See this screenshot for additional details.
+Images and video
+Must not contain screenshots with sensitive information
+
+Remove sensitive account information from your screenshots to comply with our requirements. See this screenshot for additional details.
+Pricing plans
+Must not include pricing information elsewhere in the listing, including within the logo
+
+Remove pricing information from the undesignated areas of your app listing. Keep this information in Pricing details to comply with our requirements. See this screenshot for additional details.
+Must describe additional charges in the additional charges field
+
+Update the Additional charges field to explain product or service-related charges and to comply with our requirements.
+Must have accurate pricing
+
+Update your pricing information to include free trial time and charge details to comply with our requirements. See this screenshot for additional details.
+
+Embedded default subcategory
+Must use session tokens for embedded apps
+
+Embedded apps that rely on 3rd party cookies are prohibited from the Shopify App Store. Implement sessions tokens to embed your app. Review our requirements for more information.
+Must properly use Shopify App Bridge from OAuth
+
+Correct your use of App Bridge using our documentation. Your OAuth redirect request fails to escape the iframe and doesn't successfully direct to your embedded app's version. However, your app does successfully use App Bridge from the installed apps list. Make your app's embedded user interface experience consistent to comply with our embedded app requirements. See this screencast for additional details.
+Must load embedded app properly
+
+Resolve your app's continuous loading issue using this documentation. See  this screencast  for additional details.
+Must not misuse admin links
+
+Update your app's admin links to be complete, functional, relevant to their location in the Shopify admin, and compliant with our embedded app requirements.
+Must be on App Bridge 2.0 or higher
+
+Your version of app bridge is not up to date, ensure that your app is on Shopify App Bridge version 2.0. Please refer to our documentation for more details. If your app is currently running on EASDK use this guide to migrate to App Bridge 2.0.
+Apps may not launch Full-screen mode without user interaction or from the app nav
+
+Apps may not launch Full-screen mode immediately after a user navigates to an app and must wait for user interaction. You may not launch Full-screen mode from the app nav menu.
+Full-screen mode may not be used for every page in your app
+
+Full-screen mode must only be used for complex editors and other complex use cases.
+
+
+Online Store default subcategory
+Must try to automate storefront install
+
+Must implement an automated installation process like ScriptTags or Assets APIs to make the installation process faster and simpler for merchants. Include instructions for these automated processes in the app's user interface. Automating storefront installation is important because requiring merchants to change their theme's code doesn't support good merchant experience.
+Must allow storefront widget to be enabled and disabled
+
+Disable your app's visible storefront widget by default to give the merchant editing ability before they enable the visible element. Provide the merchant with instructions to edit and enable the storefront widget to fully comply with our requirements.
+Must properly show widget in the storefront
+
+Correct your app's widget feature to properly show on the storefront and comply with our online store requirements. See this screenshot for additional details.
+Must send collected data back to the merchant
+
+Return customer data collected through a Shopify hosted service to the merchant's Shopify admin. Specifically, this applies to data collected through the Online Store and Point of Sale sales channels. All data collected must be accessible to merchants and comply with the Shopify API License and Terms of Use under section 2.3.17. Refer to our specific requirements about returning customer data to the merchant. See this screenshot for additional details.
+Must show preview if app includes a visual storefront component
+
+Allow merchants to preview edits before saving and publishing changes to your app’s visual storefront components. Refer to this help document and see this screencast for context.
+Must be compatible with Online Store 2.0
+
+Your app is currently using ScriptTag API. Update your app to be compatible with both legacy and Online Store 2.0 themes including Dawn. While other methods can be used for OS 2.0 theme compatibility, we recommend you update your app with theme app extensions to align with future requirements.
+App blocks must be responsive to the size of the section to which they're added
+
+Update your app blocks to be responsive to the size of the section that they are added to. Refer to this help document and see this screencast for context.
+Must inherit styling properties from the theme
+
+Update your app block so that it inherits styling properties from the theme, such as typography and colors. Refer to this help document and see this screencast for context.
+Must include detailed onboarding instructions for App Blocks
+
+Include detailed set up instructions within the user interface of your app to comply with our requirements . The following content must be outlined in your app’s instructions:
+What app blocks and app embed blocks are in your app, and their purpose
+How to configure functional settings for app blocks and app embed blocks
+What templates app blocks and app embed blocks can be added to
+How to add, remove, and reorder app blocks
+How to activate and deactivate app embed blocks
+
+Prohibited App Type
+Prohibited App Type default subcategory
+[Escalate] Must not bypass Shopify checkout
+
+[DO NOT USE CRITERIA]Update your app to ensure that it uses Shopify Checkout to process payments and complies with our requirements.
+Must not be an unauthorized payment gateway
+
+All Payment Gateway apps must have an accepted application form to be approved for the App Store. Review our requirements for more information and see this screenshot for additional details.
+[Escalate] Must not be similar to other apps by the Partner
+
+[DO NOT USE CRITERIA] Your app must be unique and distinct from your other apps. If you have multiple apps with overlapping features, they must be combined into one app. Review our Partner Program Agreement and app requirements for more details.
+Must not be a desktop app
+
+Desktop apps aren't accepted on the Shopify App Store. Your app can't require merchants to install software onto their computer. Review our requirements and see this screenshot for additional details.
+[Escalate] Must not falsify data
+
+[DO NOT USE CRITERIA] Apps that help merchants engage in deception are prohibited from the Shopify App Store. This includes falsifying sales data or other information displayed on a store. Review our requirements for more information.
+Must be an unlisted app if it's a Plus-specific app
+
+Apps that will be used exclusively by Plus merchants must be unlisted from the Shopify App Store. Adjust the visibility of your app to comply with our requirements and the Shopify App Store visibility requirements.
+Must not be a marketplace
+
+Apps that turn Shopify stores into marketplaces or connect merchants to Shopify-hosted marketplaces are prohibited from the Shopify App Store. Review our requirements for more detail.
+Must not be a capital lending app
+
+Apps that offer capital loans to merchants and apps that promote capital loans are prohibited from the Shopify App Store. Review our requirements for more details.
+Must not connect merchants to external agencies and developers
+
+Apps that connect merchants to external agencies and developers are not permitted on the Shopify App Store. Review our requirements for more information and see this screenshot for additional details.
+Must not require browser extension
+
+Apps that require a browser extension to function are not permitted on the app store.
+[Escalate] Must not violate PPA or API Terms of use
+
+Apps found to be in violation of the Partner Program agreement, the Acceptable Use Policy, and/or our Shopify API terms of use are prohibited.
+Must not bypass the Shopify theme store
+
+Apps that allow merchants to install a theme to their store are not permitted on the Shopify app store.
